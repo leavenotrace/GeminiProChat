@@ -25,8 +25,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       injectRegister: 'inline',
       manifest: {
-        name: 'Gemini Pro Chat',
-        short_name: 'Gemini Pro',
+        name: 'Happy Gemini',
+        short_name: 'Gemini',
         description: 'Minimal web UI for Gemini Pro.',
         theme_color: '#212129',
         background_color: '#ffffff',
